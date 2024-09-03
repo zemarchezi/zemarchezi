@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🙍‍♂️: I'm Patricia and I <br>
+🙍‍♂️: I'm Jose and I <br>
 🔭:	am a physicist and space scientist who <br>
 ❤️: loves Data Science and Data Engineering <br>
 👨‍🎓: feels very happy when learning new things <br>
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 </div>&nbsp;&nbsp;
  
 
-  
+<!--
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
@@ -125,3 +125,4 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zemarchezi&show_icons=true&theme=material-palenight&count_private=true" />
   </div>
 </div>
+-->

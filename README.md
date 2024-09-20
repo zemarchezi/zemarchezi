@@ -19,19 +19,17 @@ Here are some ideas to get you started:
 🙍‍♂️: I'm Jose and I <br>
 🔭:	am a physicist and space scientist who <br>
 ❤️: loves Data Science and Data Engineering <br>
-👨‍🎓: feels very happy when learning new things <br>
-🌱 and happier when teaching <br>
-
+<!--
 
 ## Github statistics
 
-<!--
+
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
 &nbsp;&nbsp;&nbsp;
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
--->
+
 
 <div  align="center" style="margin-bottom:100px">
 <img height=200 width=43% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zemarchezi&theme=radical&mode=weekly" />
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 <div  align="center" style="margin-bottom:100px">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zemarchezi&theme=radical&show_icons=true&card_width=200" />
 </div>
-
+-->
  &nbsp;
  &nbsp;
 

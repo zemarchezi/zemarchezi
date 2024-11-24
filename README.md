@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 🙍‍♂️: I'm Jose and I <br>
 🔭:	am a physicist and space scientist who <br>
 ❤️: loves Data Science and Data Engineering <br>
-<!--
+
 
 ## Github statistics
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div  align="center" style="margin-bottom:100px">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zemarchezi&theme=radical&show_icons=true&card_width=200" />
 </div>
--->
+
  &nbsp;
  &nbsp;
 
@@ -54,9 +54,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-<!--
 
--->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -99,7 +97,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 &nbsp;
-
+-->
 ## Contacts:
 
 <div> 
